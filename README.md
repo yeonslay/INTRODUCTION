@@ -5,7 +5,7 @@
 
 ## 자격증
 데이터분석 준전문가(ADsP)  
-SQL 개발자(SQLD)
+SQL 개발자(SQLD)  
 PCCE(Python3) Lv.4
 
 ---
